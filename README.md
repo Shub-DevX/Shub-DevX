@@ -1,10 +1,14 @@
-### 🌐 Connect with me
 
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/c3o">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+  <a href="https://linkedin.com/in/c3o" style="display: inline-flex; align-items: center; gap: 6px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn Logo" height="24" style="fill:#0A66C2;" />
+    <span style="background-color:#0A66C2; color: white; padding: 6px 12px; border-radius: 5px; font-weight: 600; font-family: Arial, sans-serif;">
+      LinkedIn
+    </span>
+  </a>
+</p>
   </a>
   <a href="https://instagram.com/shub.is.a.sailor/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" />
