@@ -1,9 +1,8 @@
 ### 🌐 Connect with me
 
+### 🌐 Connect with me
+
 <p align="center">
-  <a href="https://www.chess.com/member/professor_s_rated" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/♞_Chess.com-3B9A57?style=for-the-badge&logoColor=white" alt="Chess.com" height="28" />
-  </a>
   <a href="https://linkedin.com/in/c3o">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
@@ -18,6 +17,9 @@
   </a>
   <a href="https://x.com/S_Profession4l">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28" />
+  </a>
+  <a href="https://www.chess.com/member/professor_s_rated">
+    <img src="https://img.shields.io/badge/♞_Chess.com-3B9A57?style=for-the-badge&logoColor=white" alt="Chess.com" height="28" />
   </a>
   <a href="mailto:shub.professional@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red&color=FFFFFF&labelColor=FFFFFF" alt="Email" height="28" />
