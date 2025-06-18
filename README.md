@@ -49,13 +49,13 @@ Currently diving deeper into databases and scalable architectures.
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubDevX&theme=github-light" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shub-DevX&theme=github-light" />
 
 
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/shubham-mishra-3a904b370/)
+- 💼 [LinkedIn](https://linkedin.com/in/c3o)
 - 💬 Ask me about Java, SQL, Spring Boot, or anything backend!
 - 🎯 Goals: Contribute to open-source and build production-grade apps.
 
