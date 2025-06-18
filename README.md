@@ -1,7 +1,28 @@
 ### 🌐 Connect with me
 
-<p align="center"> <a href="https://linkedin.com/in/c3o"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/shub.is.a.sailor/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://pinterest.com/shubflexin"> <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/> </a> <a href="https://youtube.com/@Tarnished_Shubh"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> <a href="https://x.com/S_Profession4l"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/> </a> <a href="https://www.chess.com/member/professor_s_rated"> <img src="https://img.shields.io/badge/Chess.com♞-3B9A57?style=for-the-badge&logoColor=white" alt="Chess.com"/> </a> <a href="mailto:shub.professional@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red&color=FFFFFF&labelColor=FFFFFF" alt="Email"/> </a> </p>
-
+<p align="center">
+  <a href="https://www.chess.com/member/professor_s_rated" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chess_com_logo.svg/64px-Chess_com_logo.svg.png" alt="Chess.com" height="32" />
+  </a>
+  <a href="https://linkedin.com/in/c3o">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/shub.is.a.sailor/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://pinterest.com/shubflexin">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+  <a href="https://youtube.com/@Tarnished_Shubh">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://x.com/S_Profession4l">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:shub.professional@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red&color=FFFFFF&labelColor=FFFFFF" alt="Email"/>
+  </a>
+</p>
 
 
 
