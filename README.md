@@ -49,8 +49,7 @@ Currently diving deeper into databases and scalable architectures.
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shub-DevX&theme=orange-white" />
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Shub-DevX&theme=orange-white" alt="GitHub Streak" />
 
 ---
 
