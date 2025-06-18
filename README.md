@@ -2,36 +2,28 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/c3o" style="display: inline-flex; align-items: center; gap: 6px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn Logo" height="24" style="fill:#0A66C2;" />
-    <span style="background-color:#0A66C2; color: white; padding: 6px 12px; border-radius: 5px; font-weight: 600; font-family: Arial, sans-serif;">
-      LinkedIn
-    </span>
+  <a href="https://linkedin.com/in/c3o" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
-</p>
-  </a>
-  <a href="https://instagram.com/shub.is.a.sailor/">
+  <a href="https://instagram.com/shub.is.a.sailor/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" />
   </a>
-  <a href="https://pinterest.com/shubflexin">
+  <a href="https://pinterest.com/shubflexin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" height="28" />
   </a>
-  <a href="https://youtube.com/@Tarnished_Shubh">
+  <a href="https://youtube.com/@Tarnished_Shubh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="28" />
   </a>
-  <a href="https://x.com/S_Profession4l">
+  <a href="https://x.com/S_Profession4l" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28" />
   </a>
-  <a href="https://www.chess.com/member/professor_s_rated">
+  <a href="https://www.chess.com/member/professor_s_rated" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/♞_Chess.com-3B9A57?style=for-the-badge&logoColor=white" alt="Chess.com" height="28" />
   </a>
-  <a href="mailto:shub.professional@gmail.com">
+  <a href="mailto:shub.professional@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red&color=FFFFFF&labelColor=FFFFFF" alt="Email" height="28" />
   </a>
 </p>
-
-
-
 
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot | Always Learning</h3>
