@@ -54,7 +54,7 @@ I love clean architecture, efficient logic, and turning ideas into working code.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shub-DevX&theme=orange-white" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Shub-DevX&theme=orange-white" alt="GitHub Streak" />
 </p>
 
 ---
