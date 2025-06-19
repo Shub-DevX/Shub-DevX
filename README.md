@@ -25,7 +25,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
-<h3 align="center">You can also call me Francisco 👨‍💻</h3>
 <p align="center">Backend Developer | Java & Spring Boot Enthusiast | Always Learning</p>
 
 ---
