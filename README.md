@@ -17,7 +17,7 @@
   <a href="https://x.com/S_Profession4l" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28" />
   </a>
-  <a href="https://www.chess.com/member/professor-shub" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.chess.com/member/professor_francisco" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/♞_Chess.com-3B9A57?style=for-the-badge&logoColor=white" alt="Chess.com" height="28" />
   </a>
   <a href="mailto:shub.professional@gmail.com" target="_blank" rel="noopener noreferrer">
