@@ -29,9 +29,16 @@
 
 ---
 
-🧠 I'm currently a high school student with a strong interest in coding and building real-world solutions. Over the past year, I've explored Java, SQL, and Spring Boot — and I'm on a mission to go deeper into full-stack development and scalable systems.
+## 👋 About Me
 
-I love clean architecture, efficient logic, and turning ideas into working code. I’m also comfortable juggling multiple tools — from Microsoft Office to Google Workspace — and managing both creative and technical workflows.
+Hey there! I’m Shubham, a high school student with a passion for building real-world solutions and exploring the endless possibilities of code. Whether it’s designing robust backend systems or tinkering with new tech, I’m always up for a challenge—and rarely seen without a cup of coffee during midnight project sprints!
+
+**A few things about me:**
+- 🎸 I play guitar and love music (especially while coding)
+- ♟️ Chess enthusiast—catch me on [Chess.com](https://www.chess.com/member/professor_francisco)
+- 📚 Voracious reader, sketch artist, and occasional skater
+- ☕ Coffee addict, night owl, and hobbyist chef
+- 🕹️ I enjoy gaming and exploring creative outlets
 
 ---
 
