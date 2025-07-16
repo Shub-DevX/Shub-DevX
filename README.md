@@ -25,36 +25,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
-<p align="center">Backend Developer | Java & Spring Boot Enthusiast | Always Learning</p>
+<p align="center">CS Student</p>
 
 ---
 
 ## 👋 About Me
 
-Hey there! I’m Shubham, a high school student with a passion for building real-world solutions and exploring the endless possibilities of code. Whether it’s designing robust backend systems or tinkering with new tech, I’m always up for a challenge—and rarely seen without a cup of coffee during midnight project sprints!
+I'm a high school student with a passion for developing and exploring the endless possibilities of code.
 
-**A few things about me:**
+**A few of my hobbies:**
 - 🎸 I play guitar and love music (especially while coding)
-- ♟️ Chess enthusiast—catch me on [Chess.com](https://www.chess.com/member/professor_francisco)
-- 📚 Voracious reader, sketch artist, and occasional skater
+- ♟️ Chess enthusiast — catch me on [Chess.com](https://www.chess.com/member/professor_francisco)
+- 📚 Novel reader, sketch artist, and occasional skater
 - ☕ Coffee addict, night owl, and hobbyist chef
-- 🕹️ I enjoy gaming and exploring creative outlets
-
----
-
-### ⚙️ Tech Stack
-- 💻 Languages: `Java`, `SQL`
-- 🔧 Frameworks: `Spring Boot`, `Hibernate`
-- 🗃️ Databases: `MySQL`, `PostgreSQL`, `MongoDB`
-- 🛠️ Tools: `Git`, `GitHub`, `VS Code`, `IntelliJ`, `Postman`
-
----
-
-### 🌍 Languages I Speak
-- 🇺🇸 English (Professional)
-- 🇮🇳 Hindi (Native)
-- 🇳🇵 Nepali (Fluent)
-
+- 🕹️ I enjoy playing games with my friends
+- 
 ---
 
 ### 📊 GitHub Stats
@@ -64,14 +49,3 @@ Hey there! I’m Shubham, a high school student with a passion for building real
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/c3o)
-- 💬 Ask me about anything backend, Java, Spring Boot, or projects in general!
-- 🎯 2025 Goals: Contribute to open-source, sharpen system design, and publish more code!
-
----
-
-⭐ If you enjoy my work, feel free to **star** a repo — it means a lot!
-
