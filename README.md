@@ -25,7 +25,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
-<p align="center">CS Student</p>
+<p align="center">High School Student</p>
 
 ---
 
